@@ -1,4 +1,4 @@
 flask
 numpy
-pandas
+pandas>=0.19
 gunicorn

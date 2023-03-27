@@ -17,7 +17,9 @@ https://aayushdhattarwal-brs.herokuapp.com
 
 # Tech Stack
 •	Front-End: HTML, CSS
+
 •	Back-End: Flask
+
 •	IDE: Jupyter Notebook, Pycharm
 
 # How to run this app

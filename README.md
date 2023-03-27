@@ -1,11 +1,6 @@
 # book-recommender-system
 This book recommender system is designed using a hybrid approach that combines the advantages of both the popularity-based and collaborative filtering-based systems.
-
-It uses exploratory data analysis to clean and preprocess the data and techniques like cosine similarity to provide personalized book recommendations based on user preferences, ratings, etc. 
-
-By considering both popularity and collaborative filtering, the system is able to suggest a diverse range of books that are likely to be of interest to the user.
-
-All the steps including Data Preprocessing, EDA and the usage of similarity scores can be reffered to in the "book-recommener-system.ipynb" file.
+It uses exploratory data analysis to clean and preprocess the data and techniques like cosine similarity to provide personalized book recommendations based on user preferences, ratings, etc. By considering both popularity and collaborative filtering, the system is able to suggest a diverse range of books that are likely to be of interest to the user. All the steps including Data Preprocessing, EDA and the usage of similarity scores can be reffered to in the "book-recommener-system.ipynb" file.
 
 # Dataset used
 https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
@@ -31,7 +26,7 @@ https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 2) Create a virtual environment by using this series of commands:
 pip install virtualenv > virtualenv myenv > myenv\Scripts\activate (for windows)
 
-pip install virtualenv > virtualenv virtualenv_name > source virtualenv_name/bin/activate (for linux)
+ pip install virtualenv > virtualenv virtualenv_name > source virtualenv_name/bin/activate (for linux)
 
 3) Copy all files from the cloned repo to newly created virtual environment folder.
 

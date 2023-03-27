@@ -4,8 +4,6 @@ All the steps including Data Preprocessing, EDA and the usage of similarity scor
 
 # Dataset used
 https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
-## Demo Site
-https://aayushdhattarwal-brs.herokuapp.com
 
 ## Demo Screenshots
 

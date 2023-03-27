@@ -24,6 +24,7 @@ https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 1) Clone this repository
 
 2) Create a virtual environment by using this series of commands:
+
 pip install virtualenv > virtualenv myenv > myenv\Scripts\activate (for windows)
 
  pip install virtualenv > virtualenv virtualenv_name > source virtualenv_name/bin/activate (for linux)
